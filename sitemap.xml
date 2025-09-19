@@ -1,1 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Главная страница -->
+  <url>
+    <loc>https://kkasites.github.io/laufeyfanbasesite/</loc>
+    <lastmod>2025-09-19</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Страница "О сайте" -->
+  <url>
+    <loc>https://kkasites.github.io/laufeyfanbasesite//about.html</loc>
+    <lastmod>2025-09-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Галерея -->
+  <url>
+    <loc>https://kkasites.github.io/laufeyfanbasesite//gallery.html</loc>
+    <lastmod>2025-09-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
